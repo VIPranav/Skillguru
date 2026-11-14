@@ -1,0 +1,73 @@
+[
+  {
+    "id": "full-stack-developer",
+    "title": "Full Stack Developer",
+    "skills": [
+      { "name": "JavaScript", "requiredLevel": 4, "importance": 3 },
+      { "name": "React", "requiredLevel": 4, "importance": 3 },
+      { "name": "Node.js", "requiredLevel": 3, "importance": 3 },
+      { "name": "SQL", "requiredLevel": 3, "importance": 2 },
+      { "name": "HTML", "requiredLevel": 3, "importance": 2 },
+      { "name": "CSS", "requiredLevel": 3, "importance": 2 },
+      { "name": "Git", "requiredLevel": 3, "importance": 2 },
+      { "name": "REST APIs", "requiredLevel": 3, "importance": 3 },
+      { "name": "TypeScript", "requiredLevel": 3, "importance": 2 },
+      { "name": "System Design", "requiredLevel": 2, "importance": 1 }
+    ]
+  },
+  {
+    "id": "data-analyst",
+    "title": "Data Analyst",
+    "skills": [
+      { "name": "SQL", "requiredLevel": 4, "importance": 3 },
+      { "name": "Python", "requiredLevel": 4, "importance": 3 },
+      { "name": "Statistics", "requiredLevel": 4, "importance": 3 },
+      { "name": "Pandas", "requiredLevel": 4, "importance": 3 },
+      { "name": "Data Visualization", "requiredLevel": 4, "importance": 2 },
+      { "name": "Excel", "requiredLevel": 3, "importance": 1 },
+      { "name": "Databases", "requiredLevel": 3, "importance": 2 },
+      { "name": "REST APIs", "requiredLevel": 2, "importance": 1 }
+    ]
+  },
+  {
+    "id": "ml-engineer",
+    "title": "ML Engineer",
+    "skills": [
+      { "name": "Python", "requiredLevel": 5, "importance": 3 },
+      { "name": "Machine Learning", "requiredLevel": 5, "importance": 3 },
+      { "name": "Statistics", "requiredLevel": 4, "importance": 3 },
+      { "name": "Pandas", "requiredLevel": 4, "importance": 2 },
+      { "name": "Data Visualization", "requiredLevel": 3, "importance": 2 },
+      { "name": "SQL", "requiredLevel": 3, "importance": 2 },
+      { "name": "Git", "requiredLevel": 3, "importance": 1 },
+      { "name": "System Design", "requiredLevel": 3, "importance": 2 }
+    ]
+  },
+  {
+    "id": "frontend-developer",
+    "title": "Frontend Developer",
+    "skills": [
+      { "name": "HTML", "requiredLevel": 4, "importance": 2 },
+      { "name": "CSS", "requiredLevel": 4, "importance": 2 },
+      { "name": "JavaScript", "requiredLevel": 4, "importance": 3 },
+      { "name": "React", "requiredLevel": 4, "importance": 3 },
+      { "name": "TypeScript", "requiredLevel": 4, "importance": 2 },
+      { "name": "Git", "requiredLevel": 3, "importance": 1 },
+      { "name": "REST APIs", "requiredLevel": 3, "importance": 2 }
+    ]
+  },
+  {
+    "id": "backend-developer",
+    "title": "Backend Developer",
+    "skills": [
+      { "name": "Python", "requiredLevel": 4, "importance": 3 },
+      { "name": "JavaScript", "requiredLevel": 3, "importance": 2 },
+      { "name": "Node.js", "requiredLevel": 4, "importance": 3 },
+      { "name": "SQL", "requiredLevel": 4, "importance": 3 },
+      { "name": "REST APIs", "requiredLevel": 4, "importance": 3 },
+      { "name": "System Design", "requiredLevel": 4, "importance": 2 },
+      { "name": "Git", "requiredLevel": 3, "importance": 1 },
+      { "name": "Databases", "requiredLevel": 3, "importance": 2 }
+    ]
+  }
+]
